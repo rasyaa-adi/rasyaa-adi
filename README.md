@@ -1,29 +1,20 @@
 
 Hi, I'm Rasyaa 👋
 
-Informatics Engineering Student | Aspiring Cybersecurity Learner
+Informatics Engineering Student | 
 
 I'm learning technology through hands-on practice and building projects to improve my skills.
 
 🎯 Current Focus
 
-- Linux and Bash scripting
-- Networking fundamentals
-- Cybersecurity fundamentals
+- strengthening programming fundamentals
 - Git and GitHub
 
 🛠️ Technologies I'm Learning
 
-- Linux / Ubuntu
-- Bash
+- vs code
 - Python
 - Git & GitHub
-
-🚀 Featured Project
-
-"Linux Process Monitor" (https://github.com/rasyaa-adi/Linux-process-monitor)
-
-A beginner-friendly Bash tool for monitoring Linux processes.
 
 📚 My Learning Journey
 
